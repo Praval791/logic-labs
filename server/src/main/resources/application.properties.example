@@ -1,0 +1,6 @@
+spring.data.mongodb.uri=mongodb_server_url
+app.jwtSecret=happycoding
+app.jwtExpirationInMs=604800000
+
+#spring.main.allow-bean-definition-overriding=true
+
